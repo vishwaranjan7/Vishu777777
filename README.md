@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vishu777777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Vishwaranjan
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by 🚆 in Gorakhpur
 
