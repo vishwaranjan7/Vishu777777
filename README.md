@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Vishwaranjan
 - 👀 I’m interested in Web developer 
 - 🌱 I’m currently learning Git&Gitub
-- 📫 How to reach me ...by 🚆 in Maharajganj
+- 📫 How to reach me ...by Bus via Gorakhpur in Maharajganj
 
+Thank you...
 #About my first Git .
 
 Hey this is my first git change by using git ,
